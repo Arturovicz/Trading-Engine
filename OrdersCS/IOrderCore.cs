@@ -3,7 +3,7 @@
     public interface IOrderCore
     {
         public long OrderId { get; }
-        public long Username { get; }
-        public long SecurityId { get; }
+        public string Username { get; }
+        public int SecurityId { get; }
     }
 }
