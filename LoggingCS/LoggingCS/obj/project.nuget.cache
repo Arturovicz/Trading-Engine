@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+mvnRxVo2YF+ZiHbdM4YF6I3xoUPssdrmtpgHY+tIokTy/oV0qfhkcWuaB4u7yi48U6e4/jXledEbskCdP7L/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BigGu\\source\\repos\\TradingEngine\\LoggingCS\\LoggingCS\\LoggingCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BigGu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\BigGu\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\BigGu\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\BigGu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\BigGu\source\repos\TradingEngine\LoggingCS\LoggingCS\bin\Debug\net6.0\TradingEngineServer.Logging.deps.json
+C:\Users\BigGu\source\repos\TradingEngine\LoggingCS\LoggingCS\bin\Debug\net6.0\TradingEngineServer.Logging.dll
+C:\Users\BigGu\source\repos\TradingEngine\LoggingCS\LoggingCS\bin\Debug\net6.0\TradingEngineServer.Logging.pdb
+C:\Users\BigGu\source\repos\TradingEngine\LoggingCS\LoggingCS\obj\Debug\net6.0\LoggingCS.csproj.AssemblyReference.cache
+C:\Users\BigGu\source\repos\TradingEngine\LoggingCS\LoggingCS\obj\Debug\net6.0\LoggingCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BigGu\source\repos\TradingEngine\LoggingCS\LoggingCS\obj\Debug\net6.0\LoggingCS.AssemblyInfoInputs.cache
+C:\Users\BigGu\source\repos\TradingEngine\LoggingCS\LoggingCS\obj\Debug\net6.0\LoggingCS.AssemblyInfo.cs
+C:\Users\BigGu\source\repos\TradingEngine\LoggingCS\LoggingCS\obj\Debug\net6.0\LoggingCS.csproj.CoreCompileInputs.cache
+C:\Users\BigGu\source\repos\TradingEngine\LoggingCS\LoggingCS\obj\Debug\net6.0\TradingEngineServer.Logging.dll
+C:\Users\BigGu\source\repos\TradingEngine\LoggingCS\LoggingCS\obj\Debug\net6.0\refint\TradingEngineServer.Logging.dll
+C:\Users\BigGu\source\repos\TradingEngine\LoggingCS\LoggingCS\obj\Debug\net6.0\TradingEngineServer.Logging.pdb
+C:\Users\BigGu\source\repos\TradingEngine\LoggingCS\LoggingCS\obj\Debug\net6.0\ref\TradingEngineServer.Logging.dll
