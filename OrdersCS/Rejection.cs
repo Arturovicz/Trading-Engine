@@ -9,9 +9,9 @@ using TradingEngineServer.Orders;
 
 namespace TradingEngineServer.Rejects
 {
-    public class Reject : IOrderCore
+    public class Rejection : IOrderCore
     {
-        public Reject(IOrderCore rejectedOrder, RejectionReason rejectionReason)
+        public Rejection(IOrderCore rejectedOrder, RejectionReason rejectionReason)
         {
             RejectionReason = rejectionReason;
 
