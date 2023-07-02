@@ -31,11 +31,6 @@ namespace TradingEngineServer.Orders
         public string Username => _orderCore.Username;
         public int SecurityId => _orderCore.SecurityId;
 
-        /*
-        long OrderId => _orderCore.OrderId;
-        string Username => _orderCore.Username;
-        int SecurityId => _orderCore.SecurityId;
-        */
         public void IncreaseQuantity(uint quantityDelta) 
         {
             CurrentQuantity += quantityDelta;

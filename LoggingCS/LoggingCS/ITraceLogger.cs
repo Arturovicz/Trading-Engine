@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace TradingEngineServer.Logging
 {
-    public enum LoggerType
+    public interface ITraceLogger : ILogger, IDisposable
     {
-        //Only TextLogger will be implemented ofr the sake of simplicity
-        Text,
-        Database,
-        Console,
-        Trace
     }
 }
