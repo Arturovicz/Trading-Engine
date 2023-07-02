@@ -1,6 +1,4 @@
-﻿using OrdersCS;
-
-using System;
+﻿using System;
 using System.Threading.Tasks;
 
 namespace TradingEngineServer.Orders
@@ -29,9 +27,9 @@ namespace TradingEngineServer.Orders
 
         
 
-        long IOrderCore.OrderId => _orderCore.OrderId;
-        string IOrderCore.Username => _orderCore.Username;
-        int IOrderCore.SecurityId => _orderCore.SecurityId;
+        public long OrderId => _orderCore.OrderId;
+        public string Username => _orderCore.Username;
+        public int SecurityId => _orderCore.SecurityId;
 
         /*
         long OrderId => _orderCore.OrderId;
