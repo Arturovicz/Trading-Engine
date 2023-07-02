@@ -8,4 +8,9 @@
 	<AssemblyName>TradingEngineServer.Orderbook</AssemblyName>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\InstrumentCS\InstrumentCS.csproj" />
+    <ProjectReference Include="..\OrdersCS\OrdersCS.csproj" />
+  </ItemGroup>
+
 </Project>

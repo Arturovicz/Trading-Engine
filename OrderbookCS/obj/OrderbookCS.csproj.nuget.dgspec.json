@@ -4,6 +4,61 @@
     "C:\\Users\\BigGu\\source\\repos\\TradingEngine\\OrderbookCS\\OrderbookCS.csproj": {}
   },
   "projects": {
+    "C:\\Users\\BigGu\\source\\repos\\TradingEngine\\InstrumentCS\\InstrumentCS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\BigGu\\source\\repos\\TradingEngine\\InstrumentCS\\InstrumentCS.csproj",
+        "projectName": "TradingEngineServer.Instrument",
+        "projectPath": "C:\\Users\\BigGu\\source\\repos\\TradingEngine\\InstrumentCS\\InstrumentCS.csproj",
+        "packagesPath": "C:\\Users\\BigGu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BigGu\\source\\repos\\TradingEngine\\InstrumentCS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\BigGu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\BigGu\\source\\repos\\TradingEngine\\OrderbookCS\\OrderbookCS.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -28,6 +83,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "C:\\Users\\BigGu\\source\\repos\\TradingEngine\\InstrumentCS\\InstrumentCS.csproj": {
+                "projectPath": "C:\\Users\\BigGu\\source\\repos\\TradingEngine\\InstrumentCS\\InstrumentCS.csproj"
+              },
               "C:\\Users\\BigGu\\source\\repos\\TradingEngine\\OrdersCS\\OrdersCS.csproj": {
                 "projectPath": "C:\\Users\\BigGu\\source\\repos\\TradingEngine\\OrdersCS\\OrdersCS.csproj"
               }

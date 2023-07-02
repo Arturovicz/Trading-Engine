@@ -1,0 +1,12 @@
+C:\Users\BigGu\source\repos\TradingEngine\InstrumentCS\bin\Debug\net6.0\TradingEngineServer.Instrument.deps.json
+C:\Users\BigGu\source\repos\TradingEngine\InstrumentCS\bin\Debug\net6.0\TradingEngineServer.Instrument.dll
+C:\Users\BigGu\source\repos\TradingEngine\InstrumentCS\bin\Debug\net6.0\TradingEngineServer.Instrument.pdb
+C:\Users\BigGu\source\repos\TradingEngine\InstrumentCS\obj\Debug\net6.0\InstrumentCS.csproj.AssemblyReference.cache
+C:\Users\BigGu\source\repos\TradingEngine\InstrumentCS\obj\Debug\net6.0\InstrumentCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BigGu\source\repos\TradingEngine\InstrumentCS\obj\Debug\net6.0\InstrumentCS.AssemblyInfoInputs.cache
+C:\Users\BigGu\source\repos\TradingEngine\InstrumentCS\obj\Debug\net6.0\InstrumentCS.AssemblyInfo.cs
+C:\Users\BigGu\source\repos\TradingEngine\InstrumentCS\obj\Debug\net6.0\InstrumentCS.csproj.CoreCompileInputs.cache
+C:\Users\BigGu\source\repos\TradingEngine\InstrumentCS\obj\Debug\net6.0\TradingEngineServer.Instrument.dll
+C:\Users\BigGu\source\repos\TradingEngine\InstrumentCS\obj\Debug\net6.0\refint\TradingEngineServer.Instrument.dll
+C:\Users\BigGu\source\repos\TradingEngine\InstrumentCS\obj\Debug\net6.0\TradingEngineServer.Instrument.pdb
+C:\Users\BigGu\source\repos\TradingEngine\InstrumentCS\obj\Debug\net6.0\ref\TradingEngineServer.Instrument.dll

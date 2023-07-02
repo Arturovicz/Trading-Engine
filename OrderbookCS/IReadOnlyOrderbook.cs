@@ -3,7 +3,10 @@ using System.Threading.Tasks;
 
 namespace TradingEngineServer.Orderbook
 {
-    internal interface IReadOnlyOrderbook
+    public interface IReadOnlyOrderbook
     {
+        bool ContainsOrder(long orderId);
+        OrderbookSpread GetSpread(long orderId);
+        int Count();
     }
 }

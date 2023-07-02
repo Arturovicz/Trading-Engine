@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "TradingEngineServer.Instrument/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TradingEngineServer.Instrument.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TradingEngineServer.Instrument.dll": {}
+        }
+      },
       "TradingEngineServer.Orders/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -15,6 +25,11 @@
     }
   },
   "libraries": {
+    "TradingEngineServer.Instrument/1.0.0": {
+      "type": "project",
+      "path": "../InstrumentCS/InstrumentCS.csproj",
+      "msbuildProject": "../InstrumentCS/InstrumentCS.csproj"
+    },
     "TradingEngineServer.Orders/1.0.0": {
       "type": "project",
       "path": "../OrdersCS/OrdersCS.csproj",
@@ -23,6 +38,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "TradingEngineServer.Instrument >= 1.0.0",
       "TradingEngineServer.Orders >= 1.0.0"
     ]
   },
@@ -53,6 +69,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\BigGu\\source\\repos\\TradingEngine\\InstrumentCS\\InstrumentCS.csproj": {
+              "projectPath": "C:\\Users\\BigGu\\source\\repos\\TradingEngine\\InstrumentCS\\InstrumentCS.csproj"
+            },
             "C:\\Users\\BigGu\\source\\repos\\TradingEngine\\OrdersCS\\OrdersCS.csproj": {
               "projectPath": "C:\\Users\\BigGu\\source\\repos\\TradingEngine\\OrdersCS\\OrdersCS.csproj"
             }

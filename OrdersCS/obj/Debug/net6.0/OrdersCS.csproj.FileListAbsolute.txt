@@ -1,0 +1,12 @@
+C:\Users\BigGu\source\repos\TradingEngine\OrdersCS\obj\Debug\net6.0\OrdersCS.csproj.AssemblyReference.cache
+C:\Users\BigGu\source\repos\TradingEngine\OrdersCS\obj\Debug\net6.0\OrdersCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BigGu\source\repos\TradingEngine\OrdersCS\obj\Debug\net6.0\OrdersCS.AssemblyInfoInputs.cache
+C:\Users\BigGu\source\repos\TradingEngine\OrdersCS\obj\Debug\net6.0\OrdersCS.AssemblyInfo.cs
+C:\Users\BigGu\source\repos\TradingEngine\OrdersCS\obj\Debug\net6.0\OrdersCS.csproj.CoreCompileInputs.cache
+C:\Users\BigGu\source\repos\TradingEngine\OrdersCS\bin\Debug\net6.0\TradingEngineServer.Orders.deps.json
+C:\Users\BigGu\source\repos\TradingEngine\OrdersCS\bin\Debug\net6.0\TradingEngineServer.Orders.dll
+C:\Users\BigGu\source\repos\TradingEngine\OrdersCS\bin\Debug\net6.0\TradingEngineServer.Orders.pdb
+C:\Users\BigGu\source\repos\TradingEngine\OrdersCS\obj\Debug\net6.0\TradingEngineServer.Orders.dll
+C:\Users\BigGu\source\repos\TradingEngine\OrdersCS\obj\Debug\net6.0\refint\TradingEngineServer.Orders.dll
+C:\Users\BigGu\source\repos\TradingEngine\OrdersCS\obj\Debug\net6.0\TradingEngineServer.Orders.pdb
+C:\Users\BigGu\source\repos\TradingEngine\OrdersCS\obj\Debug\net6.0\ref\TradingEngineServer.Orders.dll

@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TradingEngineServer.Orderbook/1.0.0": {
+        "dependencies": {
+          "TradingEngineServer.Instrument": "1.0.0",
+          "TradingEngineServer.Orders": "1.0.0",
+          "TradingEngineServer.Instrument.Reference": "1.0.0.0",
+          "TradingEngineServer.Orders.Reference": "1.0.0.0"
+        },
+        "runtime": {
+          "TradingEngineServer.Orderbook.dll": {}
+        }
+      },
+      "TradingEngineServer.Instrument/1.0.0": {
+        "runtime": {
+          "TradingEngineServer.Instrument.dll": {}
+        }
+      },
+      "TradingEngineServer.Orders/1.0.0": {
+        "runtime": {
+          "TradingEngineServer.Orders.dll": {}
+        }
+      },
+      "TradingEngineServer.Instrument.Reference/1.0.0.0": {
+        "runtime": {
+          "TradingEngineServer.Instrument.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "TradingEngineServer.Orders.Reference/1.0.0.0": {
+        "runtime": {
+          "TradingEngineServer.Orders.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TradingEngineServer.Orderbook/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TradingEngineServer.Instrument/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TradingEngineServer.Orders/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TradingEngineServer.Instrument.Reference/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TradingEngineServer.Orders.Reference/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
